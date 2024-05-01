@@ -15,7 +15,7 @@
 </div>
 
 <div align=center>
-<a href="https://play.google.com/store/apps/details?id=com.erenalparslan.englishhero"><img width="200" src="https://github.com/erenalparslan/erenalparslan/assets/100201401/21bcbadb-c9e0-4127-aaeb-f79e2910a34f"></br>
+<a href="https://play.google.com/store/apps/details?id=com.erenalparslan.englishhero"><img width="200" src="https://github.com/erenalparslan/erenalparslan/assets/100201401/21bcbadb-c9e0-4127-aaeb-f79e2910a34f"></a></br>
 <img width="150"  src="https://github.com/erenalparslan/erenalparslan/assets/100201401/cc8670dd-f05e-49ac-8449-57b73463020d">
 <img width="150"  src="https://github.com/erenalparslan/erenalparslan/assets/100201401/d446c9cb-cad9-4b60-9731-8b9f68d6d6d2">
 <img width="150" src="https://github.com/erenalparslan/erenalparslan/assets/100201401/ad8534e3-9d60-430a-89ce-85e999c673c2">
