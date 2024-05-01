@@ -8,25 +8,6 @@
 
 - 📫 How to reach me **erenalparslan52@gmail.com**
 
-<br>
-
-<div>
-    <h2 align=center> My Featured Applications 🚀</h2>
-</div>
-
-<div align=center>
-<a href="https://play.google.com/store/apps/details?id=com.erenalparslan.englishhero"><img width="200" src="https://github.com/erenalparslan/erenalparslan/assets/100201401/21bcbadb-c9e0-4127-aaeb-f79e2910a34f"></a></br>
-<img width="150"  src="https://github.com/erenalparslan/erenalparslan/assets/100201401/cc8670dd-f05e-49ac-8449-57b73463020d">
-<img width="150"  src="https://github.com/erenalparslan/erenalparslan/assets/100201401/d446c9cb-cad9-4b60-9731-8b9f68d6d6d2">
-<img width="150" src="https://github.com/erenalparslan/erenalparslan/assets/100201401/ad8534e3-9d60-430a-89ce-85e999c673c2">
-<img width="150"  src="https://github.com/erenalparslan/BankNavigationView/assets/100201401/3cf3f878-c657-4c1b-98d4-67bb9ff0b43e">  
-<img width="150"  src="https://user-images.githubusercontent.com/100201401/226323310-22df02c6-f053-491a-9306-3dc317594c40.png"><br>
-<img width="150" src="https://user-images.githubusercontent.com/100201401/228004213-9e6adc3d-0b41-4700-9dcd-1ef03440621a.png">
-<img width="150"  src="https://github.com/erenalparslan/CalculatorWithCompose/assets/100201401/66d3e5a0-9463-4667-9ea0-45bea4b1fb1c">
-<img width=150 src="https://user-images.githubusercontent.com/100201401/226329715-ee9c0507-a839-4af8-b4c7-637f62bb6cca.png"> 
-<img width=150 src="https://user-images.githubusercontent.com/100201401/232900729-2a3870c9-a8e8-4771-a221-ca621ac19a6e.png">
-</div>
-
 
 <br>
 
